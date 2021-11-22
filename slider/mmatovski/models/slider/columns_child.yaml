@@ -1,0 +1,20 @@
+columns:
+    name:
+        label: 'Slide Name'
+        type: text
+        searchable: true
+        sortable: true
+    image_preview:
+        label: 'Slider Image'
+        type: partial
+        path: $/mmatovski/slider/models/slide/_image_preview.htm
+    sort_order_handle:
+        label: " "
+        type: partial
+        path: $/mmatovski/slider/models/slide/_reorder_handle.htm
+        sortable: false
+        width: 60px
+    sort_order:
+        label: Order
+        type: number
+        invisible: true

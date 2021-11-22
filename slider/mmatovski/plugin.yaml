@@ -1,0 +1,20 @@
+plugin:
+    name: 'mmatovski.slider::lang.plugin.name'
+    description: 'mmatovski.slider::lang.plugin.description'
+    author: Kara5
+    icon: oc-icon-slideshare
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Slider
+        url: mmatovski/slider/sliders
+        icon: icon-slideshare
+        sideMenu:
+            side-menu-item:
+                label: Slider
+                url: mmatovski/slider/sliders
+                icon: icon-sitemap
+            side-menu-item2:
+                label: 'Slide Items'
+                url: mmatovski/slider/slides
+                icon: icon-sitemap

@@ -1,0 +1,10 @@
+name: Slides
+form: $/mmatovski/slider/models/slide/fields.yaml
+modelClass: Kara5\Slider\Models\Slide
+defaultRedirect: mmatovski/slider/slides
+create:
+    redirect: 'mmatovski/slider/slides/update/:id'
+    redirectClose: mmatovski/slider/slides
+update:
+    redirect: mmatovski/slider/slides
+    redirectClose: mmatovski/slider/slides

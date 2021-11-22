@@ -1,0 +1,5 @@
+title: Slides
+modelClass: Mmatovski\Slider\Models\Slide
+nameFrom: name
+toolbar:
+    buttons: reorder_toolbar

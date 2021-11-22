@@ -1,0 +1,10 @@
+name: Sliders
+form: $/mmatovski/slider/models/slider/fields.yaml
+modelClass: Mmatovski\Slider\Models\Slider
+defaultRedirect: mmatovski/slider/sliders
+create:
+    redirect: 'mmatovski/slider/sliders/update/:id'
+    redirectClose: mmatovski/slider/sliders
+update:
+    redirect: mmatovski/slider/sliders
+    redirectClose: mmatovski/slider/sliders

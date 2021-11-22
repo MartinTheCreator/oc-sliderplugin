@@ -1,0 +1,10 @@
+fields:
+    name:
+        label: 'Slider Name'
+        span: auto
+        type: text
+    items:
+        label: Slides
+        span: full
+        type: partial
+        paht: items

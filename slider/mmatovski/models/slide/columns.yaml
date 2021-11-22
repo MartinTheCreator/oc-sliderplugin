@@ -1,0 +1,16 @@
+columns:
+    name:
+        label: 'Slide Name'
+        type: text
+        searchable: true
+        sortable: true
+    id:
+        label: ID
+        type: number
+        searchable: true
+        sortable: true
+    sort_order:
+        label: Order
+        type: number
+        searchable: true
+        sortable: true

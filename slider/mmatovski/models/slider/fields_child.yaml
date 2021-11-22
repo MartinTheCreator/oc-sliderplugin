@@ -1,0 +1,36 @@
+fields:
+    name:
+        label: 'Slide Name'
+        span: auto
+        type: text
+    position:
+        label: Position
+        options:
+            1: Left
+            2: Right
+        span: auto
+        type: dropdown
+    image:
+        label: 'Slide Image'
+        mode: image
+        span: auto
+        type: mediafinder
+    content:
+        label: 'Slider Content'
+        prompt: 'Add new item'
+        span: left
+        type: repeater
+        form:
+            fields:
+                item:
+                    label: 'Textual Item'
+                    span: full
+                    type: text
+    button_text:
+        label: 'Button Text'
+        span: right
+        type: text
+    button_url:
+        label: 'Button Link'
+        span: right
+        type: text

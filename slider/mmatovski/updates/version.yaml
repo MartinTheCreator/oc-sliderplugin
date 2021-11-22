@@ -1,0 +1,26 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table mmatovski_slider_slider'
+    - builder_table_create_mmatovski_slider_slider.php
+1.0.3:
+    - 'Created table mmatovski_slider_slide'
+    - builder_table_create_mmatovski_slider_slide.php
+1.0.4:
+    - 'Created table mmatovski_slider_to_slide'
+    - builder_table_create_mmatovski_slider_to_slide.php
+1.0.5:
+    - 'Updated table mmatovski_slider_slide'
+    - builder_table_update_mmatovski_slider_slide.php
+1.0.6:
+    - 'Updated table mmatovski_slider_slide'
+    - builder_table_update_mmatovski_slider_slide_2.php
+1.0.7:
+    - 'Updated table mmatovski_slider_slider'
+    - builder_table_update_mmatovski_slider_slider.php
+1.0.8:
+    - 'Updated table mmatovski_slider_slide'
+    - builder_table_update_mmatovski_slider_slide_3.php
+1.0.9:
+    - 'Updated table mmatovski_slider_slide'
+    - builder_table_update_mmatovski_slider_slide_4.php

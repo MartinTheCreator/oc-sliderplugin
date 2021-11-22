@@ -1,0 +1,12 @@
+items:
+    label: Slides
+    deferredBinding: true
+    view:
+        list: $/mmatovski/slider/models/slider/columns_child.yaml
+        toolbarButtons: create|add|remove|delete
+        defaultSort:
+            column: sort_order
+            direction: asc
+    manage:
+        form: $/mmatovski/slider/models/slider/fields_child.yaml
+        recordsPerPage: 10
